@@ -2,6 +2,6 @@
 .idea
 
 lib/_footer.html
-tmp/*
+tmp/resume.html
 
 bin/resume.pdf
