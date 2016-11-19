@@ -1,0 +1,7 @@
+INSTRUCTIONS:
+
+* install wkhtmltopdf
+* cd into project directory
+* run `sh resume_to_pdf.sh`
+
+The resume_to_pdf.sh file simply calls wkhtmltopdf with the correct options. This will overwrite bin/resume.pdf.
