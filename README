@@ -1,9 +1,0 @@
-INSTRUCTIONS:
-
-* install ruby
-* install wkhtmltopdf
-* cd into project directory
-* create `lib/_footer.html` with personal contact information (not checked into git)
-* run `sh resume_to_pdf.sh`
-
-The resume_to_pdf.sh file simply calls wkhtmltopdf with the correct options. This will overwrite bin/resume.pdf & bin/public-resume.pdf.
