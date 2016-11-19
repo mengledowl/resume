@@ -17,5 +17,3 @@ end
 
 generate('lib/_footer.html', 'tmp/resume.html')
 generate('lib/_public_footer.html', 'tmp/public-resume.html')
-
-
